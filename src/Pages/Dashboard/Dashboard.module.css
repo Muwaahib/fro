@@ -1,0 +1,10 @@
+.oders{
+    display: flex;
+    gap: 1rem;
+}
+
+.oder1{
+    background-color: #9956ff;
+    padding: 2rem;
+
+}
